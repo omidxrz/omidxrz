@@ -1,7 +1,7 @@
 <div align="center">
 <img widhth=77% src="https://media1.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" />
 <br>
-  <h2 align="center"> Oᴍɪᴅ "RᴇᴍᴍʏNɪɴᴇ" </h2>
+  <h2 align="center"> omid</h2>
  
   
     𝘛𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴 𝘐 𝘓𝘪𝘬e 
