@@ -1,5 +1,5 @@
 <div align="center">
-<img widhth=77% src="[https://media1.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif](https://media.giphy.com/media/S0zHxjax3DbJm/giphy.gif)" />
+<img widhth=77% src="https://media1.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif](https://media.giphy.com/media/S0zHxjax3DbJm/giphy.gif" />
 <br>
   <h2 align="center"> omid</h2>
  
