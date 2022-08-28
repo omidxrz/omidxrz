@@ -1,5 +1,5 @@
 <div align="center">
-<img widhth=77% src="https://media.giphy.com/media/S0zHxjax3DbJm/giphy.gif" />
+<img widhth=77% src="https://c.tenor.com/AXTSXVbBdOIAAAAC/leviackerman-attackontitan.gif" />
 <br>
 
 <br>
